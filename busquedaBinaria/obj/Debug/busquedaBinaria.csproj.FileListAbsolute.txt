@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\busquedaBinaria\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.pdb
